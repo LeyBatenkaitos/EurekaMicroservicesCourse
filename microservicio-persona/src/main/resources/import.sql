@@ -1,0 +1,10 @@
+INSERT INTO personas(username, nombre, apellido, fecha_nacimiento, direccion) values ('bdixon0','Byrom','Dixon','1990-01-14','7018 Westerfield Center');
+INSERT INTO personas(username, nombre, apellido, fecha_nacimiento, direccion) values ('garundel1','Glynn','Arundel','1990-11-02','725 Nova Junction');
+INSERT INTO personas(username, nombre, apellido, fecha_nacimiento, direccion) values ('iboutellier2','Idette','Boutellier','1999-04-22','824 Fordem Point');
+INSERT INTO personas(username, nombre, apellido, fecha_nacimiento, direccion) values ('estaff3','Ettore','Staff','1998-09-08','339 Homewood Drive');
+INSERT INTO personas(username, nombre, apellido, fecha_nacimiento, direccion) values ('eoclery4','Eba','Clery','1983-08-09','55245 Delaware Parkway');
+INSERT INTO personas(username, nombre, apellido, fecha_nacimiento, direccion) values ('bneathway5','Bobbye','Neathway','1980-08-07','858 Prairie Rose Circle');
+INSERT INTO personas(username, nombre, apellido, fecha_nacimiento, direccion) values ('hblakesley6','Heidi','Blakesley','1990-09-07','380 Washington Way');
+INSERT INTO personas(username, nombre, apellido, fecha_nacimiento, direccion) values ('tcapron7','Tamarah','Capron','1994-08-03','4 Tennessee Drive');
+INSERT INTO personas(username, nombre, apellido, fecha_nacimiento, direccion) values ('feeles8','Franklyn','Eeles','1990-03-19','022 Kedzie Alley');
+INSERT INTO personas(username, nombre, apellido, fecha_nacimiento, direccion) values ('fosselton9','Fiorenze','Osselton','1987-12-04','20146 Waywood Point');
